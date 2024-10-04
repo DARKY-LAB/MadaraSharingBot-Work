@@ -1,0 +1,3 @@
+To Change The Force Sub Channel Go to plugins open start.py there will be channel section changes those and you are good to go.
+
+Thank You-にちん
